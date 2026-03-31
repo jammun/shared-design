@@ -1045,7 +1045,7 @@
         <mxCell id="rO0DSFlilKp_SVkN10tF-105" parent="rO0DSFlilKp_SVkN10tF-104" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;dashed=0;strokeColor=#999999;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" value="" vertex="1">
           <mxGeometry height="27" width="180" as="geometry" />
         </mxCell>
-        <mxCell id="rO0DSFlilKp_SVkN10tF-106" parent="rO0DSFlilKp_SVkN10tF-105" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=0;shadow=0;dashed=0;strokeColor=#999999;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="..." vertex="1">
+        <mxCell id="rO0DSFlilKp_SVkN10tF-106" parent="rO0DSFlilKp_SVkN10tF-105" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=0;shadow=0;dashed=0;strokeColor=#999999;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="50,000 ~ 100,0" vertex="1">
           <mxGeometry height="27" width="90" as="geometry">
             <mxRectangle height="27" width="90" as="alternateBounds" />
           </mxGeometry>
